@@ -9,7 +9,7 @@
             "name": "(Windows) Launch",
             "type": "cppvsdbg",
             "request": "launch",
-            "program": "C:/Users/jemin/workspace/ME553_2024/build/Debug/exercise3.exe",
+            "program": "C:/Users/jemin/workspace/ME553_2024/build/Debug/exercise4.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
